@@ -1,0 +1,16 @@
+.\objects\distancefunctions.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.9.0\CMSIS\DSP\Source\DistanceFunctions\DistanceFunctions.c
+.\objects\distancefunctions.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.9.0\CMSIS\DSP\Source\DistanceFunctions\arm_boolean_distance.c
+.\objects\distancefunctions.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.9.0\CMSIS\DSP\Include\dsp/distance_functions.h
+.\objects\distancefunctions.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.9.0\CMSIS\DSP\Include\arm_math_types.h
+.\objects\distancefunctions.o: .\DSPlib\Include\cmsis_compiler.h
+.\objects\distancefunctions.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\distancefunctions.o: .\DSPlib\Include\cmsis_armcc.h
+.\objects\distancefunctions.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+.\objects\distancefunctions.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\math.h
+.\objects\distancefunctions.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\float.h
+.\objects\distancefunctions.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\limits.h
+.\objects\distancefunctions.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.9.0\CMSIS\DSP\Include\arm_math_memory.h
+.\objects\distancefunctions.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.9.0\CMSIS\DSP\Include\dsp/none.h
+.\objects\distancefunctions.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.9.0\CMSIS\DSP\Include\dsp/utils.h
+.\objects\distancefunctions.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.9.0\CMSIS\DSP\Include\dsp/statistics_functions.h
+.\objects\distancefunctions.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.9.0\CMSIS\DSP\Include\dsp/basic_math_functions.h

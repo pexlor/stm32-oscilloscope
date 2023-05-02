@@ -1,0 +1,15 @@
+.\objects\transformfunctions.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.9.0\CMSIS\DSP\Source\TransformFunctions\TransformFunctions.c
+.\objects\transformfunctions.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.9.0\CMSIS\DSP\Source\TransformFunctions\arm_bitreversal.c
+.\objects\transformfunctions.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.9.0\CMSIS\DSP\Include\dsp/transform_functions.h
+.\objects\transformfunctions.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.9.0\CMSIS\DSP\Include\arm_math_types.h
+.\objects\transformfunctions.o: .\DSPlib\Include\cmsis_compiler.h
+.\objects\transformfunctions.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\transformfunctions.o: .\DSPlib\Include\cmsis_armcc.h
+.\objects\transformfunctions.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+.\objects\transformfunctions.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\math.h
+.\objects\transformfunctions.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\float.h
+.\objects\transformfunctions.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\limits.h
+.\objects\transformfunctions.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.9.0\CMSIS\DSP\Include\arm_math_memory.h
+.\objects\transformfunctions.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.9.0\CMSIS\DSP\Include\dsp/none.h
+.\objects\transformfunctions.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.9.0\CMSIS\DSP\Include\dsp/utils.h
+.\objects\transformfunctions.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.9.0\CMSIS\DSP\Include\dsp/basic_math_functions.h

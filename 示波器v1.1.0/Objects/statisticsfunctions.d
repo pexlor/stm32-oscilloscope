@@ -1,0 +1,15 @@
+.\objects\statisticsfunctions.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.9.0\CMSIS\DSP\Source\StatisticsFunctions\StatisticsFunctions.c
+.\objects\statisticsfunctions.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.9.0\CMSIS\DSP\Source\StatisticsFunctions\arm_entropy_f32.c
+.\objects\statisticsfunctions.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.9.0\CMSIS\DSP\Include\dsp/statistics_functions.h
+.\objects\statisticsfunctions.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.9.0\CMSIS\DSP\Include\arm_math_types.h
+.\objects\statisticsfunctions.o: .\DSPlib\Include\cmsis_compiler.h
+.\objects\statisticsfunctions.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\statisticsfunctions.o: .\DSPlib\Include\cmsis_armcc.h
+.\objects\statisticsfunctions.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+.\objects\statisticsfunctions.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\math.h
+.\objects\statisticsfunctions.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\float.h
+.\objects\statisticsfunctions.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\limits.h
+.\objects\statisticsfunctions.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.9.0\CMSIS\DSP\Include\arm_math_memory.h
+.\objects\statisticsfunctions.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.9.0\CMSIS\DSP\Include\dsp/none.h
+.\objects\statisticsfunctions.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.9.0\CMSIS\DSP\Include\dsp/utils.h
+.\objects\statisticsfunctions.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.9.0\CMSIS\DSP\Include\dsp/basic_math_functions.h

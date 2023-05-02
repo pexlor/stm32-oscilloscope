@@ -1,0 +1,14 @@
+.\objects\basicmathfunctions.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.9.0\CMSIS\DSP\Source\BasicMathFunctions\BasicMathFunctions.c
+.\objects\basicmathfunctions.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.9.0\CMSIS\DSP\Source\BasicMathFunctions\arm_abs_f32.c
+.\objects\basicmathfunctions.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.9.0\CMSIS\DSP\Include\dsp/basic_math_functions.h
+.\objects\basicmathfunctions.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.9.0\CMSIS\DSP\Include\arm_math_types.h
+.\objects\basicmathfunctions.o: .\DSPlib\Include\cmsis_compiler.h
+.\objects\basicmathfunctions.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\basicmathfunctions.o: .\DSPlib\Include\cmsis_armcc.h
+.\objects\basicmathfunctions.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+.\objects\basicmathfunctions.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\math.h
+.\objects\basicmathfunctions.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\float.h
+.\objects\basicmathfunctions.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\limits.h
+.\objects\basicmathfunctions.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.9.0\CMSIS\DSP\Include\arm_math_memory.h
+.\objects\basicmathfunctions.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.9.0\CMSIS\DSP\Include\dsp/none.h
+.\objects\basicmathfunctions.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.9.0\CMSIS\DSP\Include\dsp/utils.h
